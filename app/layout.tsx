@@ -12,7 +12,7 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Celebsynth',
+  title: 'Celebsynth.ai',
   description: 'Your customized companion.',
   icons: {
     icon: '/app/favicon.png', 
